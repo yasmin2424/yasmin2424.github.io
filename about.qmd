@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+I’m Yasmin Hassan, a passionate software engineer and technology enthusiast with a background in information technology and computer applications. I hold a Bachelor of Science in Software Engineering from Makerere University and have gained practical experience working as a JDA System Analyst at DHL Supply Chain, where I manage systems processes and stock operations. I’ve also interned as a Business Process Modeling Analyst with GDE Experts and Uganda National Roads Authority, contributing to process engineering and systems improvements.
+
+With skills in UX/UI design, process modeling, and programming in PHP, Java, and Python, I lead and collaborate on innovative projects, including crime analysis and water theft detection systems. I am driven by a passion for technology, having represented Pilgrim Africa in the USA to showcase my work in robotics and fundraise for underprivileged children’s education.
+
+My leadership and project management skills have been honed through various initiatives, including my role as team leader for the Women in Fintech competitions in 2022 and 2023. I enjoy mentoring youth in technology and robotics, and I’m committed to driving innovation for socioeconomic empowerment.
+
+Fluent in both English and Swahili, I’m always eager to learn, grow, and contribute to meaningful projects that align with the Sustainable Development Goals.
+
+I am also excited to be pursuing in Data Science at the University of British Columbia (UBC) as one of my great achievement. With a strong interest in data analysis, I am eager to develop my skills in statistical methods, machine learning, and data visualization. Although my experience in the field is just beginning, I have a passion for uncovering insights from data and applying them to solve real-world problems.
+
+This opportunity at UBC will allow me to learn from leading experts, participate in cutting-edge research, and collaborate with talented peers. I am particularly interested in [specific areas of interest within data science, e.g., predictive analytics, big data, etc.], and I am enthusiastic about leveraging this education to make meaningful contributions to the field.
